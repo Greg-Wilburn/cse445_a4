@@ -14,7 +14,7 @@
                   </xsd:restriction>
                 </xsd:simpleType>
               </xsd:element>
-              <xsd:element name="Address">
+              <xsd:element name="Address" minOccurs="0">
                 <xsd:complexType>
                   <xsd:sequence>
                     <xsd:element name="Number" type="xsd:string"/>
