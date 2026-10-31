@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="https://Greg-WIlburn.github.io/cse445_a4/NationalParks.xsd">
+<NationalParks xmlns="https://greg-wilburn.github.io/cse445_a4"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="https://greg-wilburn.github.io/cse445_a4 https://Greg-WIlburn.github.io/cse445_a4/NationalParks.xsd">
   <NationalPark Rating="3.8">
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
