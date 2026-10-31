@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://Greg-WIlburn.github.io/cse445_a4/NationalParks.xsd">
+  <NationalPark Rating="3.8">
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address NearestAirport="Canyonlands Regional (CNY)">
+      <Street>PO Box 907</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="1.3">
+    <Name>Crater Lake</Name>
+    <Phone>541-594-3000</Phone>
+    <Address NearestAirport="Rogue Valley International (MFR)">
+      <Street>PO Box 7</Street>
+      <City>Crater Lake</City>
+      <State>OR</State>
+      <Zip>97604</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="Harry Reid International (LAS)">
+      <Street>PO Box 579</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="2.8">
+    <Name>Glacier</Name>
+    <Phone>406-888-7800</Phone>
+    <Address NearestAirport="Glacier Park International (FCA)">
+      <Street>PO Box 128</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="0.8">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7888</Phone>
+    <Address NearestAirport="Flagstaff Pulliam (FLG)">
+      <Street>PO Box 129</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="3.2">
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3300</Phone>
+    <Phone>307-739-3399</Phone>
+    <Address NearestAirport="Jackson Hole (JAC)">
+      <Street>PO Box 170</Street>
+      <City>Moose</City>
+      <State>WY</State>
+      <Zip>83012</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="1.0">
+    <Name>Great Sand Dunes</Name>
+    <Phone>719-378-6395</Phone>
+    <Address NearestAirport="San Luis Valley Regional (ALS)">
+      <Number>11999</Number>
+      <Street>State Highway 150</Street>
+      <City>Mosca</City>
+      <State>CO</State>
+      <Zip>81146</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Mesa Verde</Name>
+    <Phone>970-529-4465</Phone>
+    <Address NearestAirport="Cortez Municipal (CEZ)">
+      <Street>PO Box 8</Street>
+      <City>Mesa Verde National Park</City>
+      <State>CO</State>
+      <Zip>81330</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.2">
+    <Name>Mount Rainier</Name>
+    <Phone>360-569-2211</Phone>
+    <Address NearestAirport="Seattle-Tacoma International (SEA)">
+      <Number>55210</Number>
+      <Street>238th Avenue East</Street>
+      <City>Ashford</City>
+      <State>WA</State>
+      <Zip>98304</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="2.7">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="Yellowstone (WYS)">
+      <Street>PO Box 168</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190-0168</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Yosemite</Name>
+    <Phone>209-372-0200</Phone>
+    <Address NearestAirport="Merced (MCE)">
+      <Street>PO Box 577</Street>
+      <City>Yosemite</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
